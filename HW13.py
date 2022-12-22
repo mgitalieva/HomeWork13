@@ -17,4 +17,4 @@ if tickets > 3:
     price_d = price - (price / 10)
     print(f"Сумма к оплате: {price_d} руб. (с учетом скидки 10% за покупку более 3 билетов)")
 else:
-    print(f"Сумма к оплате {price} руб")
+    print(f"Сумма к оплате: {price} руб")
